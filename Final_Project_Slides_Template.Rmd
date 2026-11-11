@@ -1,0 +1,60 @@
+---
+title: "Template for STAT 140 Final Presentation"
+author: "Student 1 and Student 2"
+date: "Fall 2026"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(dplyr)
+library(ggplot2)
+library(openintro)
+```
+
+## Background
+
+
+
+## Data
+
+Bulleted list:
+
+- Item 1
+- Item 2
+- Item 3
+
+
+## Data
+
+```{r echo = FALSE, fig.align='center', out.width='80%', out.height='80%'}
+## echo = FALSE prevents R from printing the R code used to generate your plot
+## fig.align = 'center' positions your plot in the middle of the slide
+## out.width and out.height allow you to make your plot smaller, if necessary to fit on slide
+
+```
+
+
+
+## Hypotheses
+
+State your hypotheses in both words that give the context of the problem and in symbols. Be prepared to explain notation.
+
+Potentially helpful typesetting: $\mu$, $\mu_{diff}$, $\beta_0$, $\beta_1$, $\bar{x}$, $\hat{p}$ (ask me or search for others)
+
+## Statistical Methods
+
+
+## Adds another slide
+
+
+
+## Results and Conclusions
+
+
+
+## References
+
+- Use any reference style you like, but stay consistent
+- If you use the textbook(s) or class notes, you should include these in your reference list
